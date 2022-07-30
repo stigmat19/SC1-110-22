@@ -1,0 +1,41 @@
+body{
+    height: 10000px;
+}
+#test{
+    text-transform: uppercase;
+    color: brown;
+}
+p{
+    color: blue;
+}
+.vip{
+    text-decoration: underline;
+    color: red;
+}
+.super-vip{
+    font-style: italic;
+    color: green;
+}
+div.vip{
+    color: black;
+}
+
+div span{
+    font-style: italic;
+}
+.a li{
+    color: red;
+}
+.b li{
+    color: blue;
+}
+.a li a span{
+    font-size: 50px;
+}
+
+
+div.a ul.b li a:hover{
+
+}
+
+1 + 100 + 10 + 10 + 1+ 100.....
